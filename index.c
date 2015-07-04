@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void){
  printf("Ram is great");
- ptintf("warrior");
+ printf("Jai Shri Ram");
  return 0;
 }
